@@ -1,0 +1,44 @@
+body {
+  padding-top: 3.5rem;
+  background-color: gray;
+}
+html{
+	
+}
+a,
+a:link,
+a:visited,
+a:hover,
+a:active {
+    color: inherit;
+    text-decoration: inherit;
+    font-weight: inherit;
+}
+.land{
+	height: 800px;
+	width: 100%;
+	padding-top: 164px;
+	min-height: 1px;
+	background: #2F998C url('Assets/RollingMist.jpg') no-repeat center;
+}
+.navbar{
+	background-color: transparent;
+	color: black;
+	border-color: transparent;
+}
+.navbar-brand{
+	margin-left: 5%;
+}
+.navRight{
+	margin-left: 70%;
+}
+.nav-item{
+	margin-right: 5%;
+	margin-left: 5%;
+	letter-spacing: 1px;
+}
+.display-3{
+	color: #2F998C;
+	text-align: center;
+	padding-left: 5px;
+}
