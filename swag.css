@@ -87,7 +87,7 @@ a:active {
 	padding-top: 75px;
 	padding-bottom: 75px;
 }
-.smallPortfolio{
+.filler{
 	height: 500px;
 	width:100%;
 	background:
@@ -99,4 +99,57 @@ a:active {
 	background-repeat: : no-repeat;
 	background-size: cover;
 	background-position: center center;
+}
+.filler span{
+	color: white;
+	font-size: 4em;
+	padding-left: 10%;
+	margin-top: 20%;
+	text-align: center;
+}
+.smallPort{
+	height: 900px;
+	width: 100%;
+	color: black;
+	padding-top: 80px;
+	padding-bottom: 100px;
+/*	background: url("Assets/TypeWriter.jpg") no-repeat center center;*/
+	background-size: cover;
+	text-align: center;
+}
+.imgWrapper{
+	margin-top: 25px;
+	height: 250px;
+	width: 50px;
+	border-radius: 10px;
+}
+.site1{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
+}
+.site2{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
+}
+.site3{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
+}
+.site4{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
+}
+.site5{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
+}
+.site6{
+	width: 100%;
+	background: url('Assets/Capture.PNG') center center;
+	background-size: cover;	
 }
