@@ -108,7 +108,7 @@ a:active {
 	text-align: center;
 }
 .smallPort{
-	height: 900px;
+	height: 1000px;
 	width: 100%;
 	color: black;
 	padding-left: 12.5%;
@@ -157,4 +157,30 @@ a:active {
 	width: 100%;
 	background: url('Assets/Capture.PNG') center center;
 	background-size: cover;	
+}
+
+footer{
+	height: 80px;
+	width: 100%;
+	background-color: grey;
+}
+
+
+/*   Contact   */
+.contactLand{
+	background: url('Assets/ZombieLand.jpg') no-repeat;
+	background-position: bottom;
+	background-size: cover;
+}
+.contactForm{
+	position: relative;
+	width: 100%;
+	padding-left: 33%;
+	padding-right: 25%;
+	margin-top: 100px;
+	height: 600px;
+	color: black;
+}
+.submit{
+	margin-left: 30%;
 }
