@@ -158,7 +158,31 @@ a:active {
 	background: url('Assets/Capture.PNG') center center;
 	background-size: cover;	
 }
+.lastAd{
+	height: 600px;
+	width: 100%;
+	color: black;
+	padding-left: 12.5%;
+	padding-right: 12.5%;
+	padding-top: 80px;
+	padding-bottom: 100px;
+	background-color: #00D8FF;
+	text-align: center;
+}
+.adBox{
+	height: 400px;
+	width: 100%;
+	background-color: white;
+	color: blue;
+	border-radius: 3px;
+}
+.adText{
+	padding-top: 50px;
+}
 
+#adTextSecond{
+	font-size: .85em;
+}
 footer{
 	height: 80px;
 	width: 100%;
